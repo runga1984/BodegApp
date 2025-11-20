@@ -1,0 +1,2 @@
+# BodegApp
+Facturación e inventario
